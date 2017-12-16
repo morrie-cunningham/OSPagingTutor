@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CIS452Prj3/AppDelegate.swift"
+            timestampString = "500921012.416999"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CIS452Prj3.AppDelegate.__deallocating_deinit"
+                  moduleName = "CIS452Prj3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mcunnin1/Documents/School/Fall2016/CIS452/Programs/Program3/CIS452Prj3/CIS452Prj3/AppDelegate.swift"
+                  timestampString = "500921012.43221"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CIS452Prj3.AppDelegate.init () -&gt; CIS452Prj3.AppDelegate"
+                  moduleName = "CIS452Prj3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mcunnin1/Documents/School/Fall2016/CIS452/Programs/Program3/CIS452Prj3/CIS452Prj3/AppDelegate.swift"
+                  timestampString = "500921012.435144"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CIS452Prj3.AppDelegate.__allocating_init () -&gt; CIS452Prj3.AppDelegate"
+                  moduleName = "CIS452Prj3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mcunnin1/Documents/School/Fall2016/CIS452/Programs/Program3/CIS452Prj3/CIS452Prj3/AppDelegate.swift"
+                  timestampString = "500921012.436212"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "CIS452Prj3"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mcunnin1/Documents/School/Fall2016/CIS452/Programs/Program3/CIS452Prj3/CIS452Prj3/AppDelegate.swift"
+                  timestampString = "500921012.437342"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
